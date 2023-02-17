@@ -14,7 +14,7 @@ public class BookTicket_TestClass extends BaseClass {
 
 	@Test
 	public void Search() {
-		
+		System.out.println();
 	//	config = new ConfigDataProvider();
 //		driver = BrowserFactory.StartBrowser(driver, config.Browsername(), config.getURL());
 
