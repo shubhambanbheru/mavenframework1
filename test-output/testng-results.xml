@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-23T13:29:25 IST" name="Default suite" finished-at="2023-01-23T13:29:51 IST" duration-ms="25819">
+    <groups>
+    </groups>
+    <test started-at="2023-01-23T13:29:25 IST" name="Default test" finished-at="2023-01-23T13:29:51 IST" duration-ms="25819">
+      <class name="Com.Redbus.TestCases.BookTicket_TestClass">
+        <test-method is-config="true" signature="Suite()[pri:0, instance:Com.Redbus.TestCases.BookTicket_TestClass@d9345cd]" started-at="2023-01-23T13:29:25 IST" name="Suite" finished-at="2023-01-23T13:29:25 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Suite -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:Com.Redbus.TestCases.BookTicket_TestClass@d9345cd]" started-at="2023-01-23T13:29:25 IST" name="Setup" finished-at="2023-01-23T13:29:40 IST" duration-ms="14487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Search()[pri:0, instance:Com.Redbus.TestCases.BookTicket_TestClass@d9345cd]" started-at="2023-01-23T13:29:40 IST" name="Search" finished-at="2023-01-23T13:29:49 IST" duration-ms="9274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:Com.Redbus.TestCases.BookTicket_TestClass@d9345cd]" started-at="2023-01-23T13:29:49 IST" name="Teardown" finished-at="2023-01-23T13:29:51 IST" duration-ms="1999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- Com.Redbus.TestCases.BookTicket_TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
